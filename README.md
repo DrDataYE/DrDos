@@ -13,13 +13,13 @@ DrDos supports both Linux 🐧 and Termux 📲 environments. You can download an
 ### 🐧 For Linux:
 
 ```bash
-wget -O drdos.deb https://github.com/DrDataYE/DrDos/releases/latest/download/drdos.deb && sudo dpkg -i drdos.deb
+wget -O drdos_1.1.0_all_linux.deb https://github.com/DrDataYE/DrDos/releases/download/drdos/drdos_1.1.0_all_linux.deb && sudo dpkg -i drdos_1.1.0_all_linux.deb
 ```
 
 ### 📲 For Termux:
 
 ```bash
-pkg install wget -y && wget https://github.com/DrDataYE/DrDos/releases/latest/download/drdos.deb && dpkg -i drdos.deb
+pkg install wget -y && wget https://github.com/DrDataYE/DrDos/releases/download/drdos/drdos_1.1.0_all_termux.deb && dpkg -i drdos_1.1.0_all_termux.deb
 ```
 
 These commands download the latest `.deb` package 📦 from the DrDos GitHub Releases and install it on your system.
