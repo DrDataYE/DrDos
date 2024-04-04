@@ -58,7 +58,7 @@ The use of this tool can be illegal in certain circumstances and against the law
 
 *Add screenshots or example outputs of using DrDos here to provide a visual guide for users.*
 
-![DrDos Example](./images/image1.png)
+![DrDos Example](./images/image1.jpg)
 
 ## 🤝 Compatibility
 
