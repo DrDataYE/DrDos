@@ -73,7 +73,7 @@ Ensure you understand the principles and risks of DDoS attacks and are aware of 
 For support or to report any issues, please visit the GitHub project page or contact us via Telegram.
 
 - GitHub: [DrDataYE](https://github.com/DrDataYE)
-- Telegram: [Kali Linux](https://t.me/LinuxArabe)
+- Telegram: [Kali Linux](https://t.me/NewKali)
 
 ## 📝 Contributing
 
