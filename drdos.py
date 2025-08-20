@@ -115,7 +115,7 @@ def run():
     console.print("\n-----------------\n", style="bold")
     console.print("DrDos v1.0", style="bold")
     console.print("By The [link https://github.com/DrDataYE]@DrDataYE", style="bold")
-    console.print("Telegram [link https://t.me/LinuxArabe]Kali Linux", style="bold")
+    console.print("Telegram [link https://t.me/Tryhacking]@Tryhacking", style="bold")
     console.print("By Yemen", style="bold")
     console.print("\n-----------------\n", style="bold")
     console.print(
